@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 
-public class DocumentationPage extends POM {
+public class DocumentationPage extends POMTest {
 	protected WebDriver driver;
 	
 	public DocumentationPage(WebDriver driver) {

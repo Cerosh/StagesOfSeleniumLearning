@@ -11,7 +11,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class POM {
+public class POMTest {
 	private WebDriver driver;
 	protected String baseUrl = "http://www.seleniumhq.org";
 	protected SeleniumHQPage seleniumHQ;

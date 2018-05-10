@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class SeleniumHQPage extends POM {
+public class SeleniumHQPage extends POMTest {
 	protected WebDriver driver;
 	
 	public SeleniumHQPage(WebDriver driver) {
